@@ -8,6 +8,13 @@ Here are some information about me 👦🏻
 
 ---
 
+<div style="text-align: center">
+
+![Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+</div>
+
+
 #### Social media and website:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(coming soon🧭)
@@ -21,6 +28,7 @@ Here are some information about me 👦🏻
 ---
 
 #### Languages:
+
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -44,6 +52,9 @@ Here are some information about me 👦🏻
 
 <br/>
 
+
 ---
+
+
 
 [Linkedin]: https://www.linkedin.com/in/kobi-sabah-836324105/
