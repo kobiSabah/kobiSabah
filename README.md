@@ -17,7 +17,7 @@ Here are some information about me 👦🏻
 
 #### Social media and website:
 
-<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Website]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 
 
 
@@ -58,4 +58,4 @@ Here are some information about me 👦🏻
 
 
 [Linkedin]: https://www.linkedin.com/in/kobi-sabah-836324105/
-[Website]: htttps://Kobisabah.github.io/Html
+[Website]: https://Kobisabah.github.io/Html
