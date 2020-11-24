@@ -2,9 +2,9 @@
 
 Here are some information about me 👦🏻
 - 👩🏻‍💻 I’m computer science student
-- 🌱 I’m currently learning Asp.Net core
+- 🌱 I’m currently learning Android
 - 💬 Ask me about anything, i'll do my best 🙂
-- 📫 How to reach me: kobisabah@gmail.com
+- 📫 How to reach me: kobisabah@outlook.com
 
 ---
 
